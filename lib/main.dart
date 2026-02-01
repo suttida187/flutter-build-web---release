@@ -536,7 +536,7 @@ class _ArcadePageState extends State<ArcadePage> {
                   const SizedBox(width: 10),
                   const Expanded(
                     child: Text(
-                      "โหมดขอทาน (กวน ๆ แต่จริงจัง) 😭",
+                      "โดเนทเป็นกำลังใจต่อไป😭",
                       style: TextStyle(color: Colors.white, fontWeight: FontWeight.w900, fontSize: 18),
                     ),
                   ),
