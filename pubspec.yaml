@@ -1,0 +1,29 @@
+name: flutter_application_1
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cat_small.png
+    - assets/cat_big.png
+    - assets/sponge.png
+    - assets/food.png
+    - assets/poop.png
+    - assets/bin.png
+    - assets/qr_promptpay.png
